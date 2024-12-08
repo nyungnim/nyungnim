@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyungnim&layout=compact&theme=swift"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyungnim&layout=compact&theme=swift&hide=javascript,html"/>
 </div>
