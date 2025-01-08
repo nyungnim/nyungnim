@@ -13,6 +13,7 @@
   <h3>Studying</h3>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/GA4-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff" />
   <br>
