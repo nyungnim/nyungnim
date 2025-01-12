@@ -1,6 +1,8 @@
 
 
 <div align="center">
+  <h3>🤚 Hi, there. I'm Nanyoung Kim</h3>
+  <br>
   <h3>Tech</h3>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffd343" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />
