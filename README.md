@@ -5,8 +5,9 @@
   <br>
   <h3>Current Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffd343" />
-  <img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Solidity-000000.svg?style=for-the-badge&logo=Solidity&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/NestJS-B40404.svg?style=for-the-badge&logo=nestjs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=next.js&logoColor=ffffff" />
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
