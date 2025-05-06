@@ -11,6 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=ffffff" />
   <br>
   <br>
   <h3>Undergraduate Tech Stack</h3>
