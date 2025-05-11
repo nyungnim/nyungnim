@@ -3,6 +3,8 @@
 <div align="center">
   <h3>🤚 Hi, I'm Nanyoung Kim</h3>
   <br>
+  PM in IT services, BE & Hardware Dev
+  <br>
   <h3>Current Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffd343" />
   <img src="https://img.shields.io/badge/Solidity-000000.svg?style=for-the-badge&logo=Solidity&logoColor=ffffff" />
