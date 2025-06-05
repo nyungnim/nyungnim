@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h3>🤚 Hi, I'm Nanyoung Kim</h3>
+  <h3>🤚 Hi there, I'm Nanyoung Kim</h3>
   <br>
   PM in IT services
   <br>
